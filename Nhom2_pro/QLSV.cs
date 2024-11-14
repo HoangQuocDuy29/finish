@@ -465,7 +465,7 @@ namespace Nhom2_pro
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            //Duy9h43
         }
     }
 }
